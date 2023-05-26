@@ -1,22 +1,25 @@
-<h2>Hey,</h2>
+<h2>Hi, there 👋</h2>
 
-我没有失败过，要么赢得胜利，要么学到东西。I never lose. I either win or learn.
+I never lose. I either win or learn.
 
 #### 关于我 About me
 
-- 家乡 | 广东梅州 · 客家人
-- 工作 | 深圳 · 前端开发工程师
-- 邮箱 | llh@birdpaper.com
-- 掘金 | [木亦Sam](https://juejin.cn/user/2524134427070071)
+- Hometown | Hakkas in Meizhou, Guangdong, China
+- Work | Base shenzhen, Front-end development engineer
+- Mail | llh@birdpaper.com
+- Juejin | [木亦 Sam](https://juejin.cn/user/2524134427070071)
 
-#### 工作经历 Work experience
+#### Work experience
 
-- [普方立民-金文网络科技有限公司](https://www.pflm.cn/)｜前端开发工程师｜**在职-考虑机会**
-- 深圳国匠教育科技有限公司｜前端开发工程师
-- [深圳铢宝益科技有限公司](https://www.zhubaoe.cn/)｜前端开发工程师
-- 前锦网络信息科技（深圳）｜RPO 项目助理
+**在职-考虑机会(On the job - Consider opportunities)**
+> I'll post my resume here sometime.
 
-#### 教育经历 Educational experience
+- [普方立民-金文网络科技有限公司](https://www.pflm.cn/)｜ Front-end
+- 深圳国匠教育科技有限公司｜ Front-end
+- [深圳铢宝益科技有限公司](https://www.zhubaoe.cn/)｜ Front-end
+- 前锦网络信息科技（深圳）｜ RPO Project assistant
+
+#### Educational experience
 
 - 华南师范大学｜本科｜工商管理
 - 中山职业技术学院｜专科｜软件技术
