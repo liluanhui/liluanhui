@@ -19,8 +19,8 @@ My name is Sam from Meizhou, Guangdong Province. I am working as a front-end dev
 
 #### Educational experience
 
-- 华南师范大学｜本科｜工商管理
-- 中山职业技术学院｜专科｜软件技术
+- 华南师范大学｜工商管理｜本科
+- 中山职业技术学院｜软件技术｜专科
 - 梅州中学｜高中
 - 广东梅雁东山中学｜初中
 
