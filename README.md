@@ -6,8 +6,9 @@ My name is Sam from Meizhou, Guangdong Province. I am working as a front-end dev
 - Hometown | Hakkas in Meizhou, Guangdong, China
 - Work | Base shenzhen, Front-end development engineer
 - Birthday | 1996.11.01
-- Email | llh@birdpaper.com
-- Juejin | [木亦 Sam](https://juejin.cn/user/2524134427070071)
+- Email | my@moya.com
+- Juejin | [木亦Sam](https://juejin.cn/user/2524134427070071)
+- Blog | [木亦Moya](https://www.moya.plus)
 
 #### Work experience
 
