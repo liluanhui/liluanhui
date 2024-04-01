@@ -8,7 +8,7 @@ My name is Sam from Meizhou, Guangdong Province. I am working as a front-end dev
 - Birthday | 1996.11.01
 - Email | my@moya.com
 - Juejin | [木亦Sam](https://juejin.cn/user/2524134427070071)
-- Blog | [木亦Moya](https://www.moya.plus)
+- Blog | [moya.plus](https://www.moya.plus)
 
 #### Work experience
 
