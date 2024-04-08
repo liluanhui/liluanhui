@@ -16,7 +16,8 @@ My name is Sam from Meizhou, Guangdong Province. I am working as a front-end dev
 - 深圳国匠教育科技有限公司｜Front-end
 - [深圳铢宝益科技有限公司](https://www.zhubaoe.cn/)｜Front-end
 - 前锦网络信息科技（深圳）｜ RPO Project assistant
-> I'll post my resume here sometime.
+
+我正在寻求一份更好的工作机会，如果你觉得我合适，可以[获取我的简历](https://birdpaper.feishu.cn/share/base/form/shrcnqP5qEs9pzdfD4rbMkAZZAe)
 
 #### Educational experience
 
