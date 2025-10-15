@@ -1,5 +1,7 @@
 <h2>Hi, there 👋</h2>
-My name is Sam from Meizhou, Guangdong Province. I am working as a front-end developer in an e-commerce technology company in Shenzhen. I am currently on the job, but I am also looking for a new job.
+My name is Moya Sam and I'm a front-end developer working in Shenzhen.
+
+Apart from my regular job, I am currently developing the [F.P.O (Future Post Office)](https://fpo.email) website and also maintaining the [birdpaper-ui ](https://github.com/birdpaper-team/birdpaper-ui)Vue component library. 
 
 #### About me
 
