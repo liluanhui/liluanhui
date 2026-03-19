@@ -28,6 +28,4 @@ Apart from my regular job, I am currently developing the [F.P.O (Future Post Off
 - 梅州中学｜高中
 - 广东梅雁东山中学｜初中
 
-[![wakatime](https://wakatime.com/badge/user/d70dabba-3bd7-4699-94fc-4f25e2acccbb.svg)](https://wakatime.com/@d70dabba-3bd7-4699-94fc-4f25e2acccbb)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=liluanhui&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
