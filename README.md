@@ -1,7 +1,8 @@
 <h2>Hi, there 👋</h2>
 My name is Moya Sam and I'm a front-end developer working in Shenzhen.
 
-Apart from my regular job, I am currently developing the [F.P.O (Future Post Office)](https://fpo.email) website and also maintaining the [birdpaper-ui ](https://github.com/birdpaper-team/birdpaper-ui)Vue component library. 
+8 years of frontend development experience, leading architecture design and implementation for multiple large-scale business systems. Passionate about writing, sharing, and knowledge output. Open-source project author and certified HR Manager.
+Currently employed, and seeking better career opportunities now. If you are recruiting and are interested in me, you can get my resume [here](https://www.moya.plus/about)
 
 #### About me
 
@@ -18,8 +19,6 @@ Apart from my regular job, I am currently developing the [F.P.O (Future Post Off
 - 深圳国匠教育科技有限公司｜Front-end
 - [深圳铢宝益科技有限公司](https://www.zhubaoe.cn/)｜Front-end
 - 前锦网络信息科技（深圳）｜ RPO Project assistant
-
-我正在寻求一份更好的工作机会，求职意愿：深圳 - web前端开发，如果正在招聘且对我感兴趣，可以[获取我的简历](https://birdpaper.feishu.cn/share/base/form/shrcnqP5qEs9pzdfD4rbMkAZZAe)
 
 #### Educational experience
 
